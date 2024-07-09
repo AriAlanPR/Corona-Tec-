@@ -5,3 +5,5 @@
 .DS_Store
 /TecISC/assets/audio/*
 /G1Explorer/assets/audio/*
+.vscode/
+TecISC/assets/images/alticons/
