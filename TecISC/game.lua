@@ -413,7 +413,7 @@ function scene:create( event )
     damageSound = audio.loadSound("assets/audio/sounds/cpr_pikachu_damage.wav")
     restoreSound = audio.loadSound("assets/audio/sounds/cpr_pikachu_appear.wav")
     timeupsound = audio.loadSound( "assets/audio/sounds/cpr_narrator_timeup.wav" )
-    musicTrack = audio.loadStream( "assets/audio/music/Reinforcement.mp3")
+    musicTrack = audio.loadStream( "assets/audio/music/testrack.mp3")
 end
 
 
